@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product in web3
 - 🌱 I’m currently learning more about DAOs
 - 💞️ I’m looking to collaborate on LooksRare or other community run marketplaces
-- 📫 How to reach me @crypotron72
+- 📫 How to reach me @beyourhuckberry
 
 <!---
 tronmongoose/tronmongoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
