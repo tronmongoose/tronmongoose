@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tronmongoose
-- 👀 I’m interested in Product in web3
+- 👀 I’m a Product Leader at Protect AI
 - 🌱 I’m currently learning more JavaScript and LangChain
 - 💞️ I’m looking to learn more about generative art
 - 📫 How to reach me @beyourhuckberry
