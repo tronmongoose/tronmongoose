@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tronmongoose
-- 👀 I’m a Product Leader at Protect AI
-- 🌱 I’m currently learning more JavaScript and LangChain
-- 💞️ I’m looking to learn more about generative art
+- 👀 I’m a Product Leader at Palo Alto Networks
+- 🌱 I’m currently diving deep into vibe coding with Claude Code and integrating with the whole agent ecosystem of tools and MCP servers
+- 💞️ I’m looking to learn more about securing Agentic Systems at scale
 - 📫 How to reach me @beyourhuckberry
 
 <!---
